@@ -1,0 +1,5 @@
+HTML Assignment Documentation  
+Manual vs AI-Assisted Development
+Manual
+1.	The nav section only showed Home and About but the Contact option was missing and this was because I forgot to type the display name for the contact nav. Code Error: <li><a href="#contact"></a></li>
+2.	A mistake I was making is that for the Home link I placed “home.html” in the href but it should have been “index.html” because it’s the homepage and the root page and more so what I named the Home html file.
